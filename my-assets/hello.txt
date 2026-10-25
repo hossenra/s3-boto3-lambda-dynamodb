@@ -1,0 +1,7 @@
+Boto3: Upload files in s3 using boto3
+
+1. Install boto3 package: $ pip install boto3 or pip3 install boto3
+2. Configure AWS credentials: $ aws configure
+3. Python code: write python code for uploading files in s3
+4. Create an unique bucket in AWS S3
+5. Run the python code
